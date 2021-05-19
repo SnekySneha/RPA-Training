@@ -1,6 +1,6 @@
 {
   "name": "RPA Process14",
-  "description": "Amazon",
+  "description": "Amazon Dipping\r\n",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
@@ -43,7 +43,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "47136c94-ad5f-4a7c-880a-577b56d17452",
+      "uniqueId": "0032f0c4-4b20-438b-b5b8-7ad7bc0690ad",
       "input": [],
       "output": []
     }
